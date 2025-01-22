@@ -1,1 +1,6 @@
-# COP2002-Example-Repo
+# creating a project for GitHub
+# By Daniel Miller
+
+print("COP2002 Fall 2030")
+
++print(I'm understanding how to use GitHub to keep track of changes!")
